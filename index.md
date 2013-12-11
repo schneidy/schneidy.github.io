@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Schneidy.com!
 ---
 {% include JB/setup %}
 
