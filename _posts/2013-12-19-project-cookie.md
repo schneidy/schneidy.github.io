@@ -2,7 +2,7 @@
 layout: post
 title: "Project Cookie"
 ---
-Over the past year, baking has just become a passion for me. After growing up with both grandparents nearby, and with a mom that bakes pies a lot, baking just seemed natural for me. More recently I've found it to be one of the best stress revilers. After spending all day on the computer and my wrists hurts. Bake. Gone through a stressful day at work. Bake. It just relaxes me.
+Over the past year, baking has just become a passion for me. After growing up with both grandparents nearby, and with a mom that bakes pies a lot, baking just seemed natural for me. More recently I've found it to be one of the best stress relievers. After spending all day on the computer and my wrists hurts. Bake. Gone through a stressful day at work. Bake. It just relaxes me.
 
 
 The one thing that I almost always default to when the urge to bake arises is cookies. Some have been for around the house. Others have been for friends and coworkers. Every time I'm invited to an event that requests people to bring something to share, baking cookies is never that far behind.
