@@ -12,7 +12,7 @@ highlighter: false
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Dan Schneiderman
+title: Dan Schneiderman
 tagline:
 email: schneiderman.daniel@gmail.com
 name: Dan Schneiderman
@@ -35,7 +35,7 @@ production_url : http://schneidy.github.io
 baseurl: "/schneidy"
 url: http://schneidy.github.io
 cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+# logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
