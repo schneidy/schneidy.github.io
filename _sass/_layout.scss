@@ -365,7 +365,7 @@ pre code.hljs {
 	  }
 	}
 	.wrapper {
-		@include outer-container;
+		@include outer-container(65%);
 	}
 	.footer-heading {
 
