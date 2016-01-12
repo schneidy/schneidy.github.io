@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/profile_photo.png" title="Profile Picture" class="profile">
 
 I'm a maker, event organizer, and a general STEAM advocate living in Rochester, NY.
 
@@ -64,4 +64,4 @@ Resume:
 [upCloseAndCultrual]: <http://wayofm.org/shows/episodes/12082015-1>
 
 <!-- Resume -->
-[resume]: <http://schneidy.com/assets/pdfs/SchneidermanResume.pdf>
+[resume]: <{{ site.baseurl }}/assets/pdfs/SchneidermanResume.pdf>
