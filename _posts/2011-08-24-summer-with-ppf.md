@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Summer with PPF
-tags:
-- opengov
-- ppf
-- summer
-- coop
+date: 2011-08-24
+author: Dan Schneiderman
+categories: Civic-Hacking 
 ---
 This Friday marks 3 weeks since my last day working at the PPF (Participatory Politics Foundation). I had originally found out PPF around after their announcement of OpenGovernment.org. It caught my eye after finding out that the site was in collaboration with the Open States project (the project I had worked on the summer before at the Sunlight Foundation). After a couple of emails and an interview, I was all set up to intern at their home in NYC for the summer. 
 

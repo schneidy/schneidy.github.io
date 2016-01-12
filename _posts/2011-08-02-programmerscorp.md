@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Programmers Corp
-date:   2011-08-02 08:43:59
+date:   2011-08-02
 author: Dan Schneiderman
 categories: Civic-Hacking
 ---

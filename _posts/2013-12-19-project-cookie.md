@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Cookie"
-date:   2013-12-19 08:43:59
+date:   2013-12-19
 author: Dan Schneiderman
 categories: Projects
 ---

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Independent Study on D3
-tags:
-date: 2012-04-27 08:43:59
+date: 2012-04-27
 author: Dan Schneiderman
 categories: Civic-Hacking 
 ---

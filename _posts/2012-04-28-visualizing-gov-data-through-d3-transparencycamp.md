@@ -2,7 +2,7 @@
 layout: post
 title: Visualizing Gov Data Through D3 - TransparencyCamp Presentation
 tags:
-date:   2012-04-28 08:43:59
+date:   2012-04-28
 author: Dan Schneiderman
 categories: Civic-Hacking 
 ---
