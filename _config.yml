@@ -35,9 +35,9 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://schneidy.github.io
-baseurl: ''
-url: http://schneidy.github.io
+# production_url : schneidy.github.io
+baseurl: "/schneidy"
+url: "http://schneidy.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 # logo: "/assets/logo.png"
 
