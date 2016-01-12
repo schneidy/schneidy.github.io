@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Project Cookie"
+date:   2013-12-19 08:43:59
+author: Dan Schneiderman
+categories: Projects
 ---
 Over the past year, baking has just become a passion for me. After growing up with both grandparents nearby, and with a mom that bakes pies a lot, baking just seemed natural for me. More recently I've found it to be one of the best stress relievers. After spending all day on the computer and my wrists hurts. Bake. Gone through a stressful day at work. Bake. It just relaxes me.
 

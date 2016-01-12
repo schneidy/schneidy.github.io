@@ -1,7 +1,9 @@
 ---
 layout: post
 title: The Programmers Corp
-tags: 
+date:   2011-08-02 08:43:59
+author: Dan Schneiderman
+categories: Civic-Hacking
 ---
 A Dream.
 

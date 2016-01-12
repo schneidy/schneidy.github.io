@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Independent Study on D3
-tags: 
+tags:
+date: 2012-04-27 08:43:59
+author: Dan Schneiderman
+categories: Civic-Hacking 
 ---
 So it has been a long while since I last posted here. During that period of time, I’ve redone my website (which I want to redo again), gone through most of my senior year at RIT, and have started my search for a job after graduation.
 
