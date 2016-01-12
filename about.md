@@ -16,9 +16,10 @@ Activities:
 ------------
 - Rochester Mini Maker Faire, co-chair
 - RMSC After Dark: Hack Halloween, activity organizer
-- Rochester Fringe Festival 2015: LED Throwies, activity organizer
-- RMSC After Dark: LED Throwies, activity organizer
-- Rochester Street Light Festival: LED Throwies, activity organizer
+- LED Throwie Experience
+    - Rochester Fringe Festival 2015, activity organizer
+    - RMSC After Dark, activity organizer
+    - Rochester Street Light Festival, activity organizer
 - Organizer Potluck, organizer
 - BarCamp Rochester, co-organizer
 
@@ -40,10 +41,16 @@ Presentations:
 - [Visualizing Gov Data Through D3][d3Gov] - 2012
 - [Rochester Tech Community and You][rocTechCommunityAndYou] - 2010
 
+
 Interviews:
 -----------
 - [Up Close & Cultrual - The Growing Maker Movement, Here and Abroad.][upCloseAndCultrual]
 - [Connections: Innovation Friday - ROC Maker Faire; What is Tech Good For?][connectionsInterview]
+
+
+Resume:
+-------
+[Download pdf][resume]
 
 
 <!-- Presentations -->
@@ -55,3 +62,6 @@ Interviews:
 <!-- Interviews -->
 [connectionsInterview]: <http://wxxinews.org/post/connections-innovation-friday-roc-maker-faire-what-tech-good>
 [upCloseAndCultrual]: <http://wayofm.org/shows/episodes/12082015-1>
+
+<!-- Resume -->
+[resume]: <http://schneidy.com/assets/pdfs/SchneidermanResume.pdf>
