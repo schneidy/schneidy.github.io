@@ -2,6 +2,10 @@
 gems:
   # - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-feed
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
@@ -32,7 +36,7 @@ author :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 production_url : http://schneidy.github.io
-baseurl: http://schneidy.com/
+baseurl: ''
 url: http://schneidy.github.io
 cover: "/assets/header_image.jpg"
 # logo: "/assets/logo.png"
