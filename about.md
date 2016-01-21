@@ -6,11 +6,12 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/profile_photo.png" title="Profile Picture" class="profile">
 
-I'm a maker, event organizer, and a general STEAM advocate living in Rochester, NY.
+Dan Schneiderman is a maker, event organizer, and a general STEAM advocate living in Rochester, NY. 
 
-Currently, I'm the co-chair of the Rochester Mini Maker Faire, planning future maker events around the city, and working on whatever projects come to mind.
+He is currently co-chair the Rochester Mini Maker Faire, planning future maker events around the city, working on whatever projects come to mind, and consults with other local museums and various organizations around Rochester. 
 
-In the past I've organized BarCamp Rochester, mentored FIRST Robotic teams, volunteered at FIRST events (this year makes 9 years!), and led interactive maker activies throughout Monroe County.
+In the past, Dan has organized BarCamp Rochester, been involved with FIRST Robotics (this year makes 11 years!), developed web services within the civic hacking community, and led interactive maker activities throughout Monroe County. He recently left his job as a web developer to focus on expanding the maker movement within Rochester.
+
 
 Activities:
 ------------
