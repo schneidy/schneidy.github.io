@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Cookie: Redux"
-date:   2016-01-21
+date:   2015-09-08
 author: Dan Schneiderman
 categories: Projects
 ---
