@@ -202,11 +202,8 @@ protocols:
     os_rcs_type: "git"
     os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"
 
+ga_tracking_id: "UA-28086646-1"
 
-analytics :
-    provider : google 
-    google : 
-        tracking_id : 'UA-28086646-1'
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 # JB :
