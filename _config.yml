@@ -202,6 +202,11 @@ protocols:
     os_rcs_type: "git"
     os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"
 
+
+analytics :
+    provider : google 
+    google : 
+        tracking_id : 'UA-28086646-1'
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 # JB :
@@ -272,10 +277,10 @@ protocols:
 #   # Set 'provider' to the analytics provider you want to use.
 #   # Set 'provider' to false to turn analytics off globally.
 #   #        
-  analytics :
-    provider : google 
-    google : 
-        tracking_id : 'UA-28086646-1'
+  # analytics :
+  #   provider : google 
+  #   google : 
+  #       tracking_id : 'UA-28086646-1'
 #     getclicky :
 #       site_id : 
 #     mixpanel :
