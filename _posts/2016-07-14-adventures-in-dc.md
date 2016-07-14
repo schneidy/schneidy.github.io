@@ -6,13 +6,16 @@ author: Dan Schneiderman
 categories: Maker
 ---
 
+<img src="{{ site.baseurl }}/assets/photos/white_house_welcome.jpg" title="White House Welcome">
+
+
 In early June, I was invited to represent New York State Maker Movement at the White House for the National Week of Making. On the Thursday evening before the meeting at the White House, the small group of us (Pat Rapp, my wife, and myself) were all set at the airport waiting to board our flight when my wife noticed that our flight had been canceled. Seconds later, I rush up to the front desk, the official announcement goes out that all flights to the DC area have been canceled due to weather. The attendants said that the earliest flight out would leave at 5:30 on Friday morning, but there would still be a chance of delays. After talking it over, we decide to cancel all of our flights, pick up our luggage, hop in the car, and start driving to DC.  After all, it was only a 6.5 hour drive according to Google Maps and was still light out at 7:30 in the evening. The drive was fairly uneventful. We had already had dinner, and traffic was next to nothing due to the late hour. We ended up checking into our hotel at 2am. Thankfully, with 3 of us we were able to take shifts driving allowing me to catch some sleep before the big day.
 
   
 
 ### Kicking off at the White House
 
-  
+<img src="{{ site.baseurl }}/assets/photos/white_house_maker_panel.jpg" title="Maker Cities Panel">
 
 Before heading to the White House, several maker representatives and I met up for coffee a few blocks from where we had to go through security. After the fact, it did hit us that we never said what we looked like before the meet up. However, we were lucky enough that one of the representatives wore his Maker Faire badge, which acted as a magnet for the rest of us. Upon entering the room in the the Eisenhower Executive Office Building on the White House Grounds, we were greeted by Andrew Coy, the Senior Advisor for Making for the White House Office of Science and Technology Policy, and then sorted by region. At the table where I was seated was Ryan Reedell from New Jersey, Simon Hamermesh from Delaware, Kristina A. Holzweiss, the founder & director of the SLIME Maker Expo, and a few members from various Federal agencies.
 
@@ -35,7 +38,7 @@ The panel mostly touched upon their backgrounds and what they have accomplished,
 
 ### Next Steps in the Maker Movement
 
-  
+<img src="{{ site.baseurl }}/assets/photos/white_house_group_questions.jpg" title="Group Questions">  
 
 Tom Kalil, Deputy Director, Tech and Innovation for the White House Office of Science and Technology Policy, brought us back to the main discussion of the day, what are the next steps for the Maker Movement? He gave everyone a few minutes to work within their groups/regions to discuss:
 
@@ -83,6 +86,7 @@ In the end, the discussion finished on the note that mentoring and promoting mor
 
 ### Federal Makers
 
+<img src="{{ site.baseurl }}/assets/photos/white_house_federal_makers.jpg" title="Federal Maker Talks">
   
 
 Once the group discussions came to a close, a handful of federal agencies were given precisely two minutes to talk about federal opportunities for makers. Included in the lightning rounds were:
@@ -112,6 +116,8 @@ The last of the talks was given by Megan Smith, U.S. Chief Technology Officer. S
 
 Before we left the White House grounds and started our afternoon discussions, the White House had a last minute surprise for us. Every attendee of the morning’s event was deputized as a Maker Ambassador for their state with a specialized challenge coin made for the event. Challenge coins are traditionally given in the Military to prove membership when joining a unit, or recognition of special achievement. Each coin comes with an unique emblem of the occasion. Typically the coins are given in handshake where the coin can not be seen, as a symbol of trust. For the Maker Kickoff, each coin had the Presidential Seal, along with the words “Nation of Makers”, laser cut on it by the White House. Just before we boarded the bus, we took a group photo on the front steps of the Eisenhower Executive Office Building.
 
+<img src="{{ site.baseurl }}/assets/photos/maker_ambassadors.jpg" title="Maker Ambassadors">
+Photo by the Office of Science and Technology - Washington DC. Executive Office Building.
   
 
 ### Next Steps as Ambassadors
@@ -140,6 +146,7 @@ As a result of the afternoon discussion, a new network was started among everyon
 
 ### Evening Party and National Maker Faire
 
+<img src="{{ site.baseurl }}/assets/photos/national_maker_faire.jpg" title="Enterance to the National Maker Faire">
   
 
 Once the day was done, everyone was invited to a party at the hotel where the folks from Make were staying, for an after party. Makers who were in town for the National Maker Faire joined in, and some brought projects that they make (I was able to play the PinBox 3000 Artcade Pinball System from Cardboard Teck Instantute!). Maker Faire producers tossed around different solutions to the problems we’ve all encountered, shared horror stories from our own events, and talked about some of our favorite projects that we’ve worked on, including a drivable TARDIS.
@@ -153,7 +160,6 @@ The rest of the weekend was followed by the National Maker Faire, and hanging ou
 
 ### Last Thoughts
 
-  
 
 While introducing ourselves throughout the weekend, we had to mention where we’re from, what we do for a day job, and what we’re most proud of. That last bit is what really made introductions interesting. People mentioned everything from their kids, to some of the projects that they have worked on, the differences they have made within their communities, and my personal favorite, how the maker movement has changed them.
 
@@ -165,7 +171,8 @@ I would like to give a shout out to Joel Gordon, the maker ambassador from Arkan
 
 Huge thank you to NYSCATE for sending me and for covering the cost to DC, along with both Pat and my wife Becca for the last minute adventure. I would never have made it to the White House without you two. While the National Week of Making is over, I’m still working with the Office of Science & Technology Policy on bringing some of the top makers from across New York together to help build the maker movement across the state.
 
-  
+<img src="{{ site.baseurl }}/assets/photos/me_at_white_house.jpg" title="Me in front of the West Wing on the White House grounds.">
+
 
 ### Recommend Links about National Week of Making:
 
@@ -174,3 +181,4 @@ Huge thank you to NYSCATE for sending me and for covering the cost to DC, along 
 [https://www.whitehouse.gov/the-press-office/2016/06/16/presidential-proclamation-national-week-making-2016](https://www.whitehouse.gov/the-press-office/2016/06/16/presidential-proclamation-national-week-making-2016)
 
 [https://makercitybook.com/](https://makercitybook.com/)
+
