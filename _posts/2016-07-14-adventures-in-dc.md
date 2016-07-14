@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Adventures in DC: My Trip to the White Housee"
+title: "Adventures in DC"
 date:   2016-07-14
 author: Dan Schneiderman
 categories: Maker
 ---
 
-In early June, I was invited to represent New York State Maker Movement at the White House for the National Week of Making. On the Thursday evening before the meeting at the White House, the small group of us (Pat Rapp, my wife, and myself) were all set at the airport waiting to board our flight when my wife noticed that our flight had been canceled. Seconds later, I rush up to the front desk, the official announcement goes out that all flights to the DC area have been canceled due to weather. The attendants said that the earliest flight out would leave at 5:30 on Friday morning, but there would still be a chance of delays. After talking it over, we decide to cancel all of our flights, pick up our luggage, hop in the car, and start driving to DC.  After all, it was only a 6.5 hour drive according to Google Maps and was still light out at 7:30 in the evening. The drive was fairly uneventful. We had already had dinner, and traffic was next to nothing due to the late hour. We ended up checking into our hotel at 2am. Thankfully, with 3 of us we were able to take shifts allowing me to catch some sleep before the big day.
+In early June, I was invited to represent New York State Maker Movement at the White House for the National Week of Making. On the Thursday evening before the meeting at the White House, the small group of us (Pat Rapp, my wife, and myself) were all set at the airport waiting to board our flight when my wife noticed that our flight had been canceled. Seconds later, I rush up to the front desk, the official announcement goes out that all flights to the DC area have been canceled due to weather. The attendants said that the earliest flight out would leave at 5:30 on Friday morning, but there would still be a chance of delays. After talking it over, we decide to cancel all of our flights, pick up our luggage, hop in the car, and start driving to DC.  After all, it was only a 6.5 hour drive according to Google Maps and was still light out at 7:30 in the evening. The drive was fairly uneventful. We had already had dinner, and traffic was next to nothing due to the late hour. We ended up checking into our hotel at 2am. Thankfully, with 3 of us we were able to take shifts driving allowing me to catch some sleep before the big day.
 
   
 
@@ -14,7 +14,7 @@ In early June, I was invited to represent New York State Maker Movement at the W
 
   
 
-Before heading to the White House, several representatives and I met up for coffee a few blocks from where we had to go through security. After the fact, it did hit us that we never said what we looked like before the meet up. However, we were lucky enough that one of the representatives wore his Maker Faire badge, which acted as a magnet for the rest of us. Upon entering the room in the the Eisenhower Executive Office Building on the White House Grounds, we were greeted by Andrew Coy, the Senior Advisor for Making for the White House Office of Science and Technology Policy, and then sorted by region. At the table where I was seated was Ryan Reedell from New Jersey, Simon Hamermesh from Delaware, Kristina A. Holzweiss, the founder & director of the SLIME Maker Expo, and a few members from various Federal agencies.
+Before heading to the White House, several maker representatives and I met up for coffee a few blocks from where we had to go through security. After the fact, it did hit us that we never said what we looked like before the meet up. However, we were lucky enough that one of the representatives wore his Maker Faire badge, which acted as a magnet for the rest of us. Upon entering the room in the the Eisenhower Executive Office Building on the White House Grounds, we were greeted by Andrew Coy, the Senior Advisor for Making for the White House Office of Science and Technology Policy, and then sorted by region. At the table where I was seated was Ryan Reedell from New Jersey, Simon Hamermesh from Delaware, Kristina A. Holzweiss, the founder & director of the SLIME Maker Expo, and a few members from various Federal agencies.
 
   
 
@@ -41,7 +41,7 @@ Tom Kalil, Deputy Director, Tech and Innovation for the White House Office of Sc
 
   
 
-“What is the most unusual place you have found makers?”
+#### “What is the most unusual place you have found makers?”
 
   
 
@@ -49,7 +49,7 @@ Most tables, including mine, didn’t really dive into the unusual places where 
 
   
 
-“What did you do to attract diverse participation into the maker movement?”
+#### “What did you do to attract diverse participation into the maker movement?”
 
   
 
@@ -57,7 +57,7 @@ Our table mostly chatted about our experiences, and experiences we’ve heard ab
 
   
 
-“Who is not in the room?”
+#### “Who is not in the room?”
 
   
 
@@ -65,7 +65,7 @@ The range of answers was much wider than I was expected. Our table focused on pa
 
   
 
-“How are you proactively engaging young girls and women in your movement?”
+#### “How are you proactively engaging young girls and women in your movement?”
 
   
 
