@@ -56,7 +56,7 @@ Most tables, including mine, didn’t really dive into the unusual places where 
 
   
 
-Our table mostly chatted about our experiences, and experiences we’ve heard about, with partnerships from other organizations. All of us had searched out makers at farmers markets, libraries, or craft shows at one point or another. Others brought up their experiences of hands-on projects with kids and families at local YMCA locations and places of worship, often making projects with a focus on giving back to the communities. Personally, I brought up the murals of Rochester’s Fruit Belt project, and the partnership that Thimble.io has started with the Boys and Girls Club of Buffalo. Food based activities were heavily brought up within the room as a uniting factor within communities of all shapes and sizes.
+Our table mostly chatted about our experiences, and experiences we’ve heard about, with partnerships from other organizations. All of us had searched out makers at farmers markets, libraries, or craft shows at one point or another. Others brought up their experiences of hands-on projects with kids and families at local YMCA locations and places of worship, often making projects with a focus on giving back to the communities. Personally, I brought up the murals of Rochester’s [Fruit Belt project](http://greentopia.org/fruit-belt-project/), and the partnership that [Thimble.io has started with the Boys and Girls Club of Buffalo](https://blog.thimble.io/making-future-engineers-c66b12801e05#.2la5u2frs). Food based activities were heavily brought up within the room as a uniting factor within communities of all shapes and sizes.
 
   
 
@@ -72,11 +72,11 @@ The range of answers was much wider than I was expected. Our table focused on pa
 
   
 
-Examples were given how the Girl Scouts have partnered with maker organizations to teach soldering at Mini Maker Faires and other events. Groups that promote women in tech were brought up, including Girl Develop It, ChickTech, Jewelbot’s Take Your Daughter to Hack Day, along with university chapters of Women in Computing and Society of Women Engineers.
+Examples were given how the Girl Scouts have partnered with maker organizations to teach soldering at Mini Maker Faires and other events. Groups that promote women in tech were brought up, including [Girl Develop It](https://www.girldevelopit.com/), [ChickTech](http://chicktech.org/), [Jewelbot’s Take Your Daughter to Hack Day](https://bringyourdaughtertohack.splashthat.com/), along with university chapters of Women in Computing and Society of Women Engineers.
 
   
 
-The conversation did bring up debates and issues that I’ve heard within both the maker movement and the general tech industry. From deciding to establish makerspaces that cater only to women and members of the LGTBQ industry vs. makerspaces that are open to everyone, but with extra emphasis on making it a welcoming and safe space. Or the issues with[ “pink washing”](http://panelpicker.sxsw.com/vote/35265) and the focus on activities that are stereotypically aimed at females, that occur when trying to promote the maker movement to school age girls.
+The conversation did bring up debates and issues that I’ve heard within both the maker movement and the general tech industry. From deciding to establish makerspaces that cater only to women and members of the LGTBQ industry vs. makerspaces that are open to everyone, but with extra emphasis on making it a welcoming and safe space. Or the issues with [“pink washing”](http://panelpicker.sxsw.com/vote/35265) and the focus on activities that are stereotypically aimed at females, that occur when trying to promote the maker movement to school age girls.
 
   
 
@@ -102,7 +102,7 @@ Once the group discussions came to a close, a handful of federal agencies were g
 - Andrew Coy, Senior Advisor for Making, White House Office of Science and Technology Policy 
   
 
-Most of the talks revolved around grants, and how makers can give back to our country. During the U.S. Department of Education’s lightning talk, Albert announced the winners of the CTE Makeover Challenge: a competition for schools to design school makerspaces that can be scaled all over the country. For all schools that are looking at starting their own space, I recommend visiting their website and reading over their resources.
+Most of the talks revolved around grants, and how makers can give back to our country. During the U.S. Department of Education’s lightning talk, Albert announced the winners of the CTE Makeover Challenge: a competition for schools to design school makerspaces that can be scaled all over the country. For all schools that are looking at starting their own space, I recommend visiting their website and reading over their [resources](http://www.ctemakeoverchallenge.com/resources/).
 
   
 
@@ -110,7 +110,7 @@ The last of the talks was given by Megan Smith, U.S. Chief Technology Officer. S
 
   
 
-* Fun fact, Megan grew up in Buffalo. While visiting last year, she held a maker discussion similar to the one run by Tom Kalil, with The Foundry, Buffalo Labs, and a few big Buffalo makers.
+* Fun fact, Megan grew up in Buffalo. While visiting last year, she held a maker discussion similar to the one run by Tom Kalil, with [The Foundry](http://www.thefoundrybuffalo.org/), [Buffalo Labs](http://blog.buffalolab.org/), and a few big Buffalo makers.
 
   
 
@@ -176,9 +176,11 @@ Huge thank you to NYSCATE for sending me and for covering the cost to DC, along 
 
 ### Recommend Links about National Week of Making:
 
-[https://www.whitehouse.gov/blog/2016/06/23/whole-week-making](https://www.whitehouse.gov/blog/2016/06/23/whole-week-making)
+[White House: A Whole Week of Making!](https://www.whitehouse.gov/blog/2016/06/23/whole-week-making)
 
-[https://www.whitehouse.gov/the-press-office/2016/06/16/presidential-proclamation-national-week-making-2016](https://www.whitehouse.gov/the-press-office/2016/06/16/presidential-proclamation-national-week-making-2016)
+[White House: Presidential Proclamation -- National Week of Making, 2016](https://www.whitehouse.gov/the-press-office/2016/06/16/presidential-proclamation-national-week-making-2016)
 
-[https://makercitybook.com/](https://makercitybook.com/)
+[National Maker Faire](http://makerfaire.com/national/)
+
+[Maker City Book](https://makercitybook.com/)
 
