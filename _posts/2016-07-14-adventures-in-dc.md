@@ -110,7 +110,7 @@ The last of the talks was given by Megan Smith, U.S. Chief Technology Officer. S
 
   
 
-Before we left the White House grounds and started our afternoon discussions, the White House had a last minute surprise for us. Every attendee of the morning’s event was deputized as a Maker Ambassador for their state with a specialized challenge coin made for the event. Challenge coins are traditionally given in the Military to prove membership when joining a unit, or recognition of special achievement. Each coin comes with an unique emblem of the occasion. Typically the coins are given in handshake where the coin can not be seen, as a symbol of trust. For the Maker Kickoff, each coin had the Presidential Seal, along with the words “Nation of Makers”, was laser cut on it by the White House. Just before we boarded the bus, we took a group photo on the front steps of the Eisenhower Executive Office Building.
+Before we left the White House grounds and started our afternoon discussions, the White House had a last minute surprise for us. Every attendee of the morning’s event was deputized as a Maker Ambassador for their state with a specialized challenge coin made for the event. Challenge coins are traditionally given in the Military to prove membership when joining a unit, or recognition of special achievement. Each coin comes with an unique emblem of the occasion. Typically the coins are given in handshake where the coin can not be seen, as a symbol of trust. For the Maker Kickoff, each coin had the Presidential Seal, along with the words “Nation of Makers”, laser cut on it by the White House. Just before we boarded the bus, we took a group photo on the front steps of the Eisenhower Executive Office Building.
 
   
 
@@ -122,7 +122,7 @@ For the afternoon, most of us were brought to the University of the District of 
 
   
 
-1. We need larger networks of maker groups and organizations to create bigger asks from government and other foundations (currently working on starting up a NY Maker Network, but more on that soon).
+1. We need larger networks of maker groups and organizations to create bigger asks from government and other foundations (I'm currently working on starting up a NY Maker Network, but more on that soon).
 
   
 
@@ -134,7 +134,7 @@ For the afternoon, most of us were brought to the University of the District of 
 
   
 
-As a result of the afternoon discussion, a new network was started between everyone in attendance where we exchange ideas, are now in closer communication to start larger initiatives, and tossing around the idea of quarterly meetings (possibly in person every now and then).
+As a result of the afternoon discussion, a new network was started among everyone in attendance where we exchange ideas, are now in closer communication to start larger initiatives, and tossing around the idea of quarterly meetings (possibly in person every now and then).
 
   
 
@@ -146,7 +146,7 @@ Once the day was done, everyone was invited to a party at the hotel where the fo
 
   
 
-The rest of the weekend was followed by the National Maker Faire, and hanging out with Maker Faire producers. There were booths from every state, along with a ton of Federal Agencies showing off some of their latest toys. One area that I have to call out is the Burlington, NC Maker Community Exhibit. Bennett Michael Harris and the rest of the Burlington Mini Maker Faire team brought 12 different organizations with them to the National Maker Faire, including their Mayor. Seeing how involved their Mayor is in their local maker movement was inspiring, and a goal that I would love to achieve in Rochester. For photos from the faire, checkout the album I posted on the Rochester Mini Maker Faire Facebook.
+The rest of the weekend was followed by the National Maker Faire, and hanging out with Maker Faire producers. There were booths from every state, along with a ton of Federal Agencies showing off some of their latest toys. One area that I have to call out is the Burlington, NC Maker Community Exhibit. Bennett Michael Harris and the rest of the Burlington Mini Maker Faire team brought 12 different organizations with them to the National Maker Faire, including their Mayor. Seeing how involved their Mayor is in their local maker movement was inspiring, and a goal that I would love to achieve in Rochester. For photos from the faire, checkout the album I posted on the [Rochester Mini Maker Faire Facebook](https://www.facebook.com/RochesterMiniMakerFaire/photos/?tab=album&album_id=1022281251143206).
 
   
   
@@ -163,7 +163,7 @@ I would like to give a shout out to Joel Gordon, the maker ambassador from Arkan
 
   
 
-Huge thank you to NYSCATE for sending me for covering the cost to DC, along with both Pat and my wife Becca for the last minute adventure. I would never have made it to the White House without you two. While the National Week of Making is over, I’m still working with the Office of Science & Technology Policy on bringing some of the top makers from across New York together to help build the maker movement across the state.
+Huge thank you to NYSCATE for sending me and for covering the cost to DC, along with both Pat and my wife Becca for the last minute adventure. I would never have made it to the White House without you two. While the National Week of Making is over, I’m still working with the Office of Science & Technology Policy on bringing some of the top makers from across New York together to help build the maker movement across the state.
 
   
 
