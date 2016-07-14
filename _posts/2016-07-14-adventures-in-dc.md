@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adventures in DC"
+title: "Adventures in DC: My Trip to the White House"
 date:   2016-07-14
 author: Dan Schneiderman
 categories: Maker
