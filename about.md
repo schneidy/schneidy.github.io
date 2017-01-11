@@ -78,7 +78,7 @@ Resume:
 [rochesterMagMaker]: <http://www.democratandchronicle.com/story/rochester-magazine/life-style/2016/11/04/makers-revolution-changing-face-shopping/92511158/>
 [democratandchronicleProfile]: <http://www.democratandchronicle.com/story/home/2016/07/26/young-professional-advocates-maker-movement/87581716/>
 [connectionsInterview]: <http://wxxinews.org/post/connections-innovation-friday-roc-maker-faire-what-tech-good>
-[upCloseAndCultrual]: <http://wayofm.org/shows/episodes/08302016>
+[upCloseAndCultrual2]: <http://wayofm.org/shows/episodes/08302016>
 [upCloseAndCultrual]: <http://wayofm.org/shows/episodes/12082015-1>
 
 <!-- Resume -->
