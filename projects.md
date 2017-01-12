@@ -10,12 +10,14 @@ Thoughout the last few years, I've found myself working on electronic projects, 
 Events:
 -------
 * [Rochester Mini Maker Faire][rmmf]
+* [New York State Maker Summut][nysmakersummit]
 * [BarCamp Rochester][barcamproc]
 * Organizers Potluck
 
 
 Maker Activities:
 -----------------
+* Green Room at Fringe Festival
 * LED Throwies
 * Paper Circuits
 
@@ -30,6 +32,7 @@ Random Projects:
 <!-- Events -->
 [rmmf]: <http://makerfairerochester.com/>
 [barcamproc]: <http://barcamproc.org/>
+[nysmakersummit]: <http://www.nysmakers.com/>
 
 <!-- Maker Activities -->
 
