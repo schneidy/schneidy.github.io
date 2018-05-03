@@ -39,7 +39,7 @@ Organizations:
 - MAGIC (Media Arts Games Interaction Creativity) Center at RIT
 - Finger Lakes Regional STEM Hub
 - Informal STEM Hub
-- 
+- S.T.E.A.M Area at the New York State Fair Co-Chair
 - BarCamp Rochester
 - Computer Science House at RIT
 - FIRST Robotics
