@@ -9,7 +9,7 @@ Thoughout the last few years, I've found myself working on electronic projects, 
 
 Events:
 -------
-* [Rochester Mini Maker Faire][rmmf]
+* [Maker Faire Rochester][rmmf]
 * [New York State Maker Summut][nysmakersummit]
 * [BarCamp Rochester][barcamproc]
 * Organizers Potluck
@@ -17,6 +17,9 @@ Events:
 
 Maker Activities:
 -----------------
+* Light Painting
+* Cardboard construction
+* Big Face Boxes
 * Green Room at Fringe Festival
 * LED Throwies
 * Paper Circuits

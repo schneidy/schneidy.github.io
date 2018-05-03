@@ -18,29 +18,41 @@ By day, Dan is the Free and Open Source Software Researcher and Community Liaiso
 
 Activities:
 ------------
-- Rochester Mini Maker Faire, co-chair
-- New York State Maker Summit, lead organizer
-- "Green Room" at the Rochester Fringe Festival, producer/maker
+- Maker Faire Rochester, co-chair, 2014 - Present
+- New York State Maker Summit, lead organizer, 2017
+- "Green Room" at the Rochester Fringe Festival, producer/maker, 2016
 - RMSC After Dark: Intergalactic, cardboard rockets activity organizer
 - RMSC After Dark: Maker Masquerade, duct tape flower activity organizer
 - RMSC After Dark: Hack Halloween, activity organizer
-- LED Throwie Experience
+- LED Throwie Experience, 2015
     - Rochester Fringe Festival 2015, activity organizer
     - RMSC After Dark, activity organizer
     - Rochester Street Light Festival, activity organizer
-- Organizer Potluck, organizer
-- BarCamp Rochester, co-organizer
+- Organizer Potluck, organizer, 2015
+- BarCamp Rochester, co-organizer, 2009 - 2014
 
 
 Organizations:
 --------------
 - NYSCATE (New York State Association for Computers & Technology Education)
-- Media Arts Games Interaction Creativity (MAGIC) at RIT
+- Maker Faire Co-Chair
+- MAGIC (Media Arts Games Interaction Creativity) Center at RIT
 - Finger Lakes Regional STEM Hub
-- Memorial Art Gallery Idea Committee
+- Informal STEM Hub
+- 
 - BarCamp Rochester
 - Computer Science House at RIT
 - FIRST Robotics
+
+
+Honors/Awards:
+--------------
+- The Rochester 10, City Newspaper, 2017
+- Digital Rochester GREAT Award - Emerging Tech Leader, 2017
+- Quoted by Senator Gillibrand in Press Release for CTE & Maker Legislation, 2017
+- New York State Representative at the White House Nation of Makers Kickoff, 2016
+- NYSCATE Volunteer Hall of Fame, 2015
+
 
 Interviews:
 -----------
