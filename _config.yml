@@ -14,6 +14,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  events:
+    output: true
+    permalink: /event/:slug
 
 defaults:
   -
@@ -39,6 +42,12 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  -
+    scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
 
 markdown: kramdown
 
