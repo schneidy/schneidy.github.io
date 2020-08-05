@@ -11,7 +11,7 @@ menu_settings:
     - title: 'Events'
       url: '/'
     - title: 'Projects'
-      url: '/project/'
+      url: '/projects'
     - title: 'Blog'
       url: '/blog/'
     - title: 'About'
