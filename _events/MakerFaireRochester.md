@@ -6,7 +6,7 @@ description: Maker Faire Rochester is the Greatest Show and Tell on Earth
 featured_image: '/images/makerfaire/MFRHeader.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/makerfaire/MFRHeader.jpg)
 
 ## Maker Faire Rochester
 
