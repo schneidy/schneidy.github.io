@@ -21,3 +21,7 @@ _site
 Gemfile.lock
 .bundle/
 vendor/
+
+_site/
+.sass-cache/
+.jekyll-cache/
