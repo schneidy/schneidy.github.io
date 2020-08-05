@@ -10,7 +10,7 @@ menu_settings:
   menu_items:
     - title: 'Events'
       url: '/'
-    - title: 'Projects'
+    - title: 'Projects & Hands-on Activities'
       url: '/projects'
     - title: 'Blog'
       url: '/blog/'
