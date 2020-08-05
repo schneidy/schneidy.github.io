@@ -4,6 +4,7 @@ title: "Leaving MAGIC"
 date:   2018-06-06
 author: Dan Schneiderman
 categories: Work
+featured_image: '/images/blog/leavingMAGIC.jpg'
 ---
 
 Big Life Update:

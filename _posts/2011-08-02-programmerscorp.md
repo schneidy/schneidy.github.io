@@ -4,6 +4,7 @@ title: The Programmers Corp
 date:   2011-08-02
 author: Dan Schneiderman
 categories: Civic-Hacking
+featured_image: '/images/blog/default.jpg'
 ---
 A Dream.
 

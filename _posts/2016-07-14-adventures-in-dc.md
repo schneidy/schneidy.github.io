@@ -4,6 +4,7 @@ title: "Adventures in DC: My Trip to the White House"
 date:   2016-07-14
 author: Dan Schneiderman
 categories: Maker
+featured_image: '/images/blog/white_house_welcome.jpg'
 ---
 
 <img src="{{ site.baseurl }}/assets/photos/white_house_welcome.jpg" title="White House Welcome">

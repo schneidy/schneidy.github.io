@@ -4,6 +4,7 @@ title: "Project Cookie: Redux"
 date:   2015-09-08
 author: Dan Schneiderman
 categories: Projects
+featured_image: '/images/blog/default.jpg'
 ---
 
 So it’s over a year since I last posted. Figured I would pick up where I last left off.

@@ -4,9 +4,10 @@ title: "Invited to the White House"
 date:   2016-06-09
 author: Dan Schneiderman
 categories: Maker
+featured_image: '/images/blog/nation_of_makers_newheader.jpg'
 ---
 
-<img src="{{ site.baseurl }}/assets/photos/nation_of_makers_newheader.jpg" title="Nation of Makers">
+![](/images/blog/nation_of_makers_newheader.jpg)
 
 Excited to announce that I’ve been invited to represent the New York State Maker Movement at the White House for the National Week of Making kickoff next week! Between working with school kids, planning & building projects for & with the community, and of course co-producing the Rochester Mini MakerFaire, working in the maker movement has been incredibly inspiring and has personally changed my life.
 

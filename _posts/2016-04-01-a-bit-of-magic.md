@@ -4,7 +4,10 @@ title: "Time for a Bit of MAGIC"
 date:   2016-04-01
 author: Dan Schneiderman
 categories: Work
+featured_image: '/images/blog/magic.jpg'
 ---
+
+![](/images/blog/magic.jpg)
 
 So I’ve told this to a number of friends and family already, but I’ve been waiting till today to announce that starting today, I will be taking on the role of FOSS@MAGIC Research Associate & Community Liaison at RIT. I’ll be doing everything from organizing hackathons, meetups, supporting student and university wide projects, to public relations, media, managing k-12 outreach efforts and working with the community at large.
 
