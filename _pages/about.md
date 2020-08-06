@@ -75,7 +75,7 @@ Presentations:
 
 Resume:
 -------
-[Download pdf][resume]
+[Download pdf](https://www.schneidy.com/images/SchneidermanResume.pdf)
 
 
 <!-- Presentations -->
@@ -94,4 +94,4 @@ Resume:
 [upCloseAndCultrual]: <http://wayofm.org/shows/episodes/12082015-1>
 
 <!-- Resume -->
-[resume]: <{{ site.baseurl }}/assets/pdfs/SchneidermanResume.pdf>
+<!-- [resume](/images/SchneidermanResume.pdf) -->
