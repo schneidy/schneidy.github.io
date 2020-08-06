@@ -5,102 +5,41 @@ date: 2020-08-05 00:00:00
 description: Maker Faire Rochester is the Greatest Show and Tell on Earth
 featured_image: '/images/makerfaire/MFRHeader.jpg'
 ---
-
 ![](/images/makerfaire/MFRHeader.jpg)
 
-## Maker Faire Rochester
+**Maker Faire Rochester** is a festival to celebrate those who love to make, create, learn, play, invent, craft, hack, build, think and be inspired by science, technology, engineering, arts, music, and crafts.
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+We celebrated our first event in November of 2014 with over 90 maker exhibits from across Western New York and 1,500 visitors of all ages in attendance. For the 6th annual event (November 2019), there were 200+ Makers, several speakers, and over 7,000 attendees at the faire, including over 2,000 students who attended our Student S.T.E.A.M Fest on the Friday leading into the faire.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+You can find the full list of makers from 2019 on the [Maker Faire Rochester website](https://rochester.makerfaire.com/makers-exhibits-2/).
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
-
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
+Since the start of the faire, I've acted as Co-Chair for the faire. The role has included managing a core team of 7 members, curating and meeting with Makers from all over New York State, developing outreach activities, writing grants, creating budgets and partnerships with other organizations, approaching sponsors, writing press releases, coordinating media announcements, planning out the day’s events, taking care of any issues that come up during the faire, and managing our social media accounts year round. 
 
 ---
 
-### Image galleries
+### Glimpse at the 2019 Maker Faire Rochester
 
-Here's a really neat custom feature we added – galleries:
+Photos provided by Lindsay Felt, Katie Potvin, Marissa Harris, and myself.
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/makerfaire/IMG_5152.jpg" alt="alternatetext">
+	<img src="/images/makerfaire/IMG_5221.jpg">
+	<img src="/images/makerfaire/IMG_5256.jpg">
+	<img src="/images/makerfaire/IMG_8979.jpg">
+	<img src="/images/makerfaire/IMG_8988.jpg">
+	<img src="/images/makerfaire/RochesterMakerFaire2019-939.jpg">
+	<img src="/images/makerfaire/RochesterMakerFaire2019-1093.jpg">
+	<img src="/images/makerfaire/IMG_5142.jpg">
 </div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
+	
 
 ---
 
-### Image carousels
+### 2019 Maker Faire Rochester in Review
 
-Here's another gallery with only one column, which creates a carousel slide-show instead.
 
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sjDJ1ZwGpq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
+## Walkthrough of the 2019 Maker Faire Rochester
 
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bu_iTAEfIO4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
