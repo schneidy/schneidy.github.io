@@ -4,24 +4,35 @@ title: A beautiful two-column Jekyll theme
 description: A beautiful, minimal two-column portfolio theme built for Jekyll. Duet makes your work look simply awesome.
 featured_image: /images/social.jpg
 ---
+
+<section class="intro">
+
+  <div class="wrap">
+
+    <h1>Events:</h1>
+    <p>Events that I've helped organize.</p>
+  </div>
+
+</section>
+
 <section class="portfolio">
 
   <div class="content-wrap portfolio-wrap">
 
-    {% for project in site.events reversed %}
+    {% for event in site.events reversed %}
 
     <div class="portfolio-item">
 
-      <a class="portfolio-item__link" href="{{ project.url | relative_url }}">
+      <a class="portfolio-item__link" href="{{ event.url | relative_url }}">
 
         <div class="portfolio-item__image">
-          <img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
+          <img src="{{ event.featured_image | relative_url }}" alt="{{ event.title }}">
         </div>
 
         <div class="portfolio-item__content">
           <div class="portfolio-item__info">
-            <h2 class="portfolio-item__title">{{ project.title }}</h2>
-            <p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+            <h2 class="portfolio-item__title">{{ event.title }}</h2>
+            <p class="portfolio-item__subtitle">{{ event.subtitle }}</p>
           </div>
         </div>
 
