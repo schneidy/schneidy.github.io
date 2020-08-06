@@ -19,7 +19,7 @@ I've been Co-Chair of Maker Faire Rochester since it's inception in 2014. The ro
 
 ### Glimpse at the 2019 Maker Faire Rochester
 
-Photos provided by Lindsay Felt, Katie Potvin, Marissa Harris, and myself.
+Photos provided by Lindsay Felt, Katie Potvin, Marissa Haddock, and myself.
 
 <div class="gallery" data-columns="3">
 	<img src="/images/makerfaire/IMG_5152.jpg">
