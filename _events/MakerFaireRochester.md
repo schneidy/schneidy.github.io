@@ -13,7 +13,7 @@ We celebrated our first event in November of 2014 with over 90 maker exhibits fr
 
 You can find the full list of makers from 2019 on the [Maker Faire Rochester website](https://rochester.makerfaire.com/makers-exhibits-2/).
 
-Since the start of the faire, I've acted as Co-Chair for the faire. The role has included managing a core team of 7 members, curating and meeting with Makers from all over New York State, developing outreach activities, writing grants, creating budgets and partnerships with other organizations, approaching sponsors, writing press releases, coordinating media announcements, planning out the day’s events, taking care of any issues that come up during the faire, and managing our social media accounts year round. 
+I've been Co-Chair of Maker Faire Rochester since it's inception in 2014. The role has included managing a core team of 7 members, curating and meeting with Makers from all over New York State, developing outreach activities, writing grants, creating budgets and partnerships with other organizations, approaching sponsors, writing press releases, coordinating media announcements, planning out the day’s events, taking care of any issues that come up during the faire, and managing our social media accounts year round. 
 
 ---
 
